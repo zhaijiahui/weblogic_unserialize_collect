@@ -1,2 +1,2 @@
-# weblogic_unserialize_collect
-weblogic_unserialize_collect :)
+# weblogic_vulnerability_collect
+weblogic_vulnerability_collect :)
